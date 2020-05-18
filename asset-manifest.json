@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Kamal114/myreact/static/js/main.107bc15c.chunk.js",
+    "main.js.map": "/Kamal114/myreact/static/js/main.107bc15c.chunk.js.map",
+    "runtime-main.js": "/Kamal114/myreact/static/js/runtime-main.9fa7405b.js",
+    "runtime-main.js.map": "/Kamal114/myreact/static/js/runtime-main.9fa7405b.js.map",
+    "static/js/2.82bb3967.chunk.js": "/Kamal114/myreact/static/js/2.82bb3967.chunk.js",
+    "static/js/2.82bb3967.chunk.js.map": "/Kamal114/myreact/static/js/2.82bb3967.chunk.js.map",
+    "index.html": "/Kamal114/myreact/index.html",
+    "precache-manifest.750d22a1b469a8f55e7ef0624a17646d.js": "/Kamal114/myreact/precache-manifest.750d22a1b469a8f55e7ef0624a17646d.js",
+    "service-worker.js": "/Kamal114/myreact/service-worker.js",
+    "static/js/2.82bb3967.chunk.js.LICENSE.txt": "/Kamal114/myreact/static/js/2.82bb3967.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fa7405b.js",
+    "static/js/2.82bb3967.chunk.js",
+    "static/js/main.107bc15c.chunk.js"
+  ]
+}
